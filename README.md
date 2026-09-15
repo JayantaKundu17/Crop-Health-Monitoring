@@ -140,12 +140,17 @@ The model supports the following 38 classes:
 - Tomato — Healthy
 
 ---
+SCREENSHOTS
 
-<img width="1461" height="786" alt="Screenshot 2026-09-15 at 5 29 54 AM" src="https://github.com/user-attachments/assets/fcb00668-e779-4935-8c56-8bc57b314f4a" />
-<img width="1461" height="750" alt="Screenshot 2026-09-15 at 5 30 01 AM" src="https://github.com/user-attachments/assets/68e06219-6d01-43bd-887c-2282b11b90a9" />
-<img width="1455" height="786" alt="Screenshot 2026-09-15 at 5 30 28 AM" src="https://github.com/user-attachments/assets/833476a9-da7d-4af0-825b-5d4141c0548f" />
-<img width="1470" height="956" alt="Screenshot 2026-09-15 at 5 33 58 AM" src="https://github.com/user-attachments/assets/de3d3c33-09f3-46eb-bc96-1e18348b2678" />
-<img width="1470" height="956" alt="Screenshot 2026-09-15 at 5 34 14 AM" src="https://github.com/user-attachments/assets/07748346-c29d-4905-9a78-156d6aa7a4b5" />
+
+<img width="1461" height="786" alt="Screenshot 2026-09-15 at 5 29 54 AM" src="https://github.com/user-attachments/assets/5f8ca1d6-5a19-48e6-85e4-e16713312750" />
+<img width="1461" height="750" alt="Screenshot 2026-09-15 at 5 30 01 AM" src="https://github.com/user-attachments/assets/f4c09dd1-e632-433c-a21d-a21a3e957f48" />
+<img width="1455" height="786" alt="Screenshot 2026-09-15 at 5 30 28 AM" src="https://github.com/user-attachments/assets/839c245f-ae4a-49f1-9fa1-0a923146a805" />
+<img width="1439" height="781" alt="Screenshot 2026-09-15 at 5 34 14 AM" src="https://github.com/user-attachments/assets/972049e1-9a9e-4cfe-9b8d-110461df7d84" />
+<img width="1451" height="802" alt="Screenshot 2026-09-15 at 5 33 58 AM" src="https://github.com/user-attachments/assets/dfd46ae8-7554-4561-803c-117f9fd9fdd7" />
+
+
+
 
 ---
 ## 🔬 How It Works
