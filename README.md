@@ -9,7 +9,7 @@ https://crop-health-monitoring.streamlit.app/
 
 ---
 
-##SCREENSHOTS
+## SCREENSHOTS
 
 
 <img width="1461" height="786" alt="Screenshot 2026-09-15 at 5 29 54 AM" src="https://github.com/user-attachments/assets/5f8ca1d6-5a19-48e6-85e4-e16713312750" />
