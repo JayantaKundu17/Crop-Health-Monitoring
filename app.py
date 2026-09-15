@@ -394,7 +394,7 @@ if image is not None:
         st.image(
             image,
             caption="Input image",
-            use_container_width=True
+            width="stretch"
         )
 
     with st.spinner(
@@ -498,7 +498,7 @@ if image is not None:
 
     st.dataframe(
         prediction_df,
-        use_container_width=True,
+        width="stretch",
         hide_index=True
     )
 
@@ -589,7 +589,7 @@ if image is not None:
                         "Grad-CAM — regions "
                         "influencing the prediction"
                     ),
-                    use_container_width=True
+                    width="stretch"
                 )
 
             except Exception as e:
