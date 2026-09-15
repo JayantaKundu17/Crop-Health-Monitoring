@@ -7,6 +7,25 @@ AI-powered crop disease classification using **EfficientNet-B0**, with confidenc
 **Streamlit App:**  
 https://crop-health-monitoring.streamlit.app/
 
+---
+
+##SCREENSHOTS
+
+
+<img width="1461" height="786" alt="Screenshot 2026-09-15 at 5 29 54 AM" src="https://github.com/user-attachments/assets/5f8ca1d6-5a19-48e6-85e4-e16713312750" />
+
+<img width="1461" height="750" alt="Screenshot 2026-09-15 at 5 30 01 AM" src="https://github.com/user-attachments/assets/f4c09dd1-e632-433c-a21d-a21a3e957f48" />
+
+<img width="1455" height="786" alt="Screenshot 2026-09-15 at 5 30 28 AM" src="https://github.com/user-attachments/assets/839c245f-ae4a-49f1-9fa1-0a923146a805" />
+
+<img width="1439" height="781" alt="Screenshot 2026-09-15 at 5 34 14 AM" src="https://github.com/user-attachments/assets/972049e1-9a9e-4cfe-9b8d-110461df7d84" />
+
+<img width="1451" height="802" alt="Screenshot 2026-09-15 at 5 33 58 AM" src="https://github.com/user-attachments/assets/dfd46ae8-7554-4561-803c-117f9fd9fdd7" />
+
+
+
+
+---
 ## 📌 Overview
 
 Crop diseases can significantly affect agricultural productivity when they are not identified early.
@@ -140,19 +159,7 @@ The model supports the following 38 classes:
 - Tomato — Healthy
 
 ---
-SCREENSHOTS
 
-
-<img width="1461" height="786" alt="Screenshot 2026-09-15 at 5 29 54 AM" src="https://github.com/user-attachments/assets/5f8ca1d6-5a19-48e6-85e4-e16713312750" />
-<img width="1461" height="750" alt="Screenshot 2026-09-15 at 5 30 01 AM" src="https://github.com/user-attachments/assets/f4c09dd1-e632-433c-a21d-a21a3e957f48" />
-<img width="1455" height="786" alt="Screenshot 2026-09-15 at 5 30 28 AM" src="https://github.com/user-attachments/assets/839c245f-ae4a-49f1-9fa1-0a923146a805" />
-<img width="1439" height="781" alt="Screenshot 2026-09-15 at 5 34 14 AM" src="https://github.com/user-attachments/assets/972049e1-9a9e-4cfe-9b8d-110461df7d84" />
-<img width="1451" height="802" alt="Screenshot 2026-09-15 at 5 33 58 AM" src="https://github.com/user-attachments/assets/dfd46ae8-7554-4561-803c-117f9fd9fdd7" />
-
-
-
-
----
 ## 🔬 How It Works
 
 ```text
